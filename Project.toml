@@ -1,7 +1,7 @@
 name = "testPkg"
 uuid = "9b4b8fa1-9ac0-43e7-a9e8-87f92f8c98fa"
 authors = ["Administrator "]
-version = "0.1.0"
+version = "0.2.0"
 
 [deps]
 FFTW = "7a1cc6ca-52ef-59f5-83cd-3a7055c09341"
